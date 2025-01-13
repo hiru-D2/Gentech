@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rememberMeCheckBox" type="id"/>
+    <item name="settings_title" type="id">Settings</item>
+    <item name="user_profile" type="id">profile</item>
+    <item name="user_name" type="id"/>
+    <item name="edit_details" type="id">edit</item>
+    <item name="phone_number_section" type="id">phonenumber</item>
+    <item name="divider" type="id">divider</item>
+</resources>
